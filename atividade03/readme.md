@@ -4,7 +4,7 @@
 
 O programa recebe 1 parâmetro:
 
-1. valor de n (número de iterações)
+ - valor de n (número de iterações)
 
 A execução é feito da seguinte forma:
 
